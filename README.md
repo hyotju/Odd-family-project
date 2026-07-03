@@ -1,5 +1,7 @@
-# 결과물 : https://www.instagram.com/p/DYy5uublPd-/?igsh=MTNndWc4cTZxNDNhaA==
-# notion 페이지 : https://app.notion.com/p/Odd-Family-Project-320d018677e3807c84e9d7046629f2fa
+# 결과물 
+  https://www.instagram.com/p/DYy5uublPd-/?igsh=MTNndWc4cTZxNDNhaA==
+# notion 페이지
+  https://app.notion.com/p/Odd-Family-Project-320d018677e3807c84e9d7046629f2fa
 
 # 4-chatbot
 
