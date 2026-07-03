@@ -1,3 +1,6 @@
+# 결과물 : https://www.instagram.com/p/DYy5uublPd-/?igsh=MTNndWc4cTZxNDNhaA==
+# notion 페이지 : https://app.notion.com/p/Odd-Family-Project-320d018677e3807c84e9d7046629f2fa
+
 # 4-chatbot
 
 HateSlop **4기** 세션용 워크스페이스입니다. Flask + RAG 캐릭터 챗봇 실습을 위한 **기본 템플릿**과, 이전 기수 **참고 예시**를 한 저장소에서 다룹니다.
